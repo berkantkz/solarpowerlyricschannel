@@ -1,0 +1,14 @@
+{
+  "name": "solarpowerlyrics",
+  "version": "1.0.0",
+  "description": "solarpower lyrics bot on telegram",
+  "main": "solarpower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "berkantkz",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
